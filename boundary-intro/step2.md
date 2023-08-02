@@ -6,13 +6,7 @@ Boundary dev mode starts:
 - A worker server
 - A Postgres database
 
-First, install boundary.
-
-```
-sudo apt-get update && sudo apt-get install boundary
-```{{execute}}
-
-Check the help message for `boundary dev` command.
+First, check the help message for `boundary dev` command.
 
 ```
 boundary dev -h
