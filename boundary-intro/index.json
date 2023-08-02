@@ -7,6 +7,10 @@
   "details": {
     "steps": [
       {
+        "title": "Install Boundary",
+        "text": "step1.md"
+      },
+      {
         "title": "Start a Development Environment",
         "text": "step2.md"
       },
